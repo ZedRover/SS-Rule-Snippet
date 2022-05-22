@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,tensorflow
 DOMAIN-SUFFIX,pytorch
+DOMAIN-SUFFIX,keras
 ## 常见国外域名列表
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
